@@ -893,9 +893,9 @@
     "restore": {
       "projectUniqueName": "Dispatcher",
       "projectName": "Dispatcher",
-      "projectPath": "C:\\Users\\gabrielle.marhue\\Documents\\UiPath\\Dispatcher\\.local",
+      "projectPath": "C:\\Users\\gabrielle.marhue\\Documents\\GitHub\\ReFrameWork\\Dispatcher\\.local",
       "packagesPath": "C:\\Users\\gabrielle.marhue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabrielle.marhue\\Documents\\UiPath\\Dispatcher\\.local"
+      "outputPath": "C:\\Users\\gabrielle.marhue\\Documents\\GitHub\\ReFrameWork\\Dispatcher\\.local"
     },
     "frameworks": {
       "net461": {
